@@ -1,0 +1,8 @@
+pyspark
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+findspark
+ipykernel
